@@ -1,12 +1,9 @@
 {
-  "name": "rag-functions",
+  "name": "rag-n8n",
   "version": "1.0.0",
   "description": "Serverless functions for RAG system",
+  "main": "index.js",
   "dependencies": {
-    "langchain": "^0.1.9",
-    "openai": "^4.20.1",
-    "pdf-parse": "^1.1.1",
-    "@microsoft/fast-text": "^1.0.0",
-    "mammoth": "^1.6.0"
+    "openai": "^4.20.1"
   }
 }
